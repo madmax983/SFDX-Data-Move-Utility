@@ -166,6 +166,7 @@ export enum RESOURCES {
     queryingTotallyFetched = "queryingTotallyFetched",
     queryString = "queryString",
     fetchingSummary = "fetchingSummary",
+    invalidQueryStringError = "invalidQueryError",
 
     updatingTarget = "updatingTarget",
     updatingTargetNRecordsWillBeUpdated = "updatingTargetNRecordsWillBeUpdated",

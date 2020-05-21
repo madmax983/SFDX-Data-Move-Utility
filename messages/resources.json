@@ -138,6 +138,7 @@
     "queryingTotallyFetched": "{%s} Total retrieved within all steps (source/target): %s records.",
     "queryString": "{%s} Query string: %s.",
     "fetchingSummary": "Data retrieving summary",
+    "invalidQueryStringError": "Invalid query string.",
 
     "updatingTarget": "Updating the Target %s...",
     "updatingTargetNRecordsWillBeUpdated": "{%s} Number of records to %s: %s.",
